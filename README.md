@@ -1,46 +1,54 @@
+<img align="right" width="120" src="./assets/mascot.svg" alt="Robot mascot" />
+
 # Robertas Burbo
 
-AI & Automation Engineer building full-stack applications, integrations and automation systems.
+**AI & Automation Engineer** · Full-Stack · Integrations
 
-`TypeScript` · `Node.js` · `Python` · `React` · `Next.js` · `SQL / PostgreSQL` · `AI / LLM integrations`
+Building AI-powered products, automation systems and full-stack applications.
 
----
+`TypeScript` · `Node.js` · `Python` · `React` · `Next.js` · `PostgreSQL`
 
-## Featured Projects
+## Selected work
 
-### WEFT — fashion discovery product
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Bilingual fashion discovery MVP built with Next.js, React and TypeScript. Explainable concept-graph search,
-PostgreSQL / Supabase analytics, automated search evaluation, and a client-side Three.js fitting-room prototype.
+### WEFT
 
-**[Repository](https://github.com/Yashelly/Fashion_Aggregator)** · **[Live Demo](https://fashion-aggregator-flame.vercel.app)**
+<a href="https://fashion-aggregator-flame.vercel.app">
+  <img src="https://raw.githubusercontent.com/Yashelly/Fashion_Aggregator/main/docs/screenshots/search.png" width="100%" alt="WEFT search interface" />
+</a>
 
-![WEFT search interface](https://raw.githubusercontent.com/Yashelly/Fashion_Aggregator/main/docs/screenshots/search.png)
+Bilingual EN/LT fashion discovery MVP with explainable concept-graph search, PostgreSQL/Supabase analytics, automated search evaluation and a client-side Three.js fitting-room prototype.
 
-### Job Seeker Intelligence — backend & automation
+`Next.js` · `React` · `TypeScript` · `PostgreSQL`
 
-Local-first job-search engine in Python / FastAPI that aggregates vacancies from multiple sources into one data model.
-Ranking sits behind an AI provider abstraction with a deterministic rule-based fallback, so it stays functional with no API keys.
-Persists to SQLite with schema migrations, and runs scheduled and background jobs alongside web, TUI and CLI interfaces.
-Model output is treated as untrusted input; covered by an automated test suite and GitHub Actions CI, including a zero-credential offline demo.
+[Repository](https://github.com/Yashelly/Fashion_Aggregator) · [Live Demo](https://fashion-aggregator-flame.vercel.app)
 
-**[Repository](https://github.com/Yashelly/job-application-agent)**
+</td>
+<td width="50%" valign="top">
 
----
+### Job Seeker Intelligence
 
-## Engineering Background
+Local-first job-search and automation engine: multi-source ingestion, an AI provider abstraction with deterministic fallback, SQLite persistence, and a scheduler with background jobs across web, TUI and CLI.
 
-Earlier hands-on work — through labs and portfolio projects — centered on Microsoft infrastructure and endpoint management:
-Microsoft Entra ID, Intune, Active Directory, Microsoft 365, PowerShell, and Windows Server.
+`Python` · `FastAPI` · `SQLite` · `CI`
 
-[intune-modern-workplace](https://github.com/Yashelly/intune-modern-workplace) ·
-[intune-endpoint-automation-powershell](https://github.com/Yashelly/intune-endpoint-automation-powershell) ·
-[windows-server-ad-dns-dhcp-gpo](https://github.com/Yashelly/windows-server-ad-dns-dhcp-gpo)
+[Repository](https://github.com/Yashelly/job-application-agent)
 
----
+</td>
+</tr>
+</table>
 
-## Education & Certification
+### Earlier engineering background
 
-- **VILNIUS TECH** — BSc, Artificial Intelligence Systems
-- **Microsoft** — AZ-900
-- **Google** — System Administration and IT Infrastructure Services
+Microsoft Entra ID · Intune · Active Directory · Microsoft 365 · PowerShell · Windows Server
+
+Hands-on infrastructure labs and automation projects.
+
+[intune-modern-workplace](https://github.com/Yashelly/intune-modern-workplace) · [intune-endpoint-automation-powershell](https://github.com/Yashelly/intune-endpoint-automation-powershell) · [windows-server-ad-dns-dhcp-gpo](https://github.com/Yashelly/windows-server-ad-dns-dhcp-gpo)
+
+### Education
+
+VILNIUS TECH — BSc, Artificial Intelligence Systems · Microsoft AZ-900 · Google — System Administration and IT Infrastructure Services
