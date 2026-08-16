@@ -1,7 +1,6 @@
 # Robertas Burbo
 
 AI & Automation Engineer building full-stack applications, integrations and automation systems.
-Stronger on the backend: integrations, reliability, and systems that keep working when parts fail.
 
 `TypeScript` · `Node.js` · `Python` · `React` · `Next.js` · `SQL / PostgreSQL` · `AI / LLM integrations`
 
@@ -11,10 +10,8 @@ Stronger on the backend: integrations, reliability, and systems that keep workin
 
 ### WEFT — fashion discovery product
 
-Bilingual (EN / LT) fashion discovery MVP with end-to-end ownership across UI, API, search and data.
-Built on Next.js, React and TypeScript, with PostgreSQL / Supabase behind server-side routes and analytics.
-Search runs on an explainable concept-graph ranker — deterministic and inspectable, not an embeddings or LLM model.
-Ships with a search evaluation harness (hand-labeled query sets, precision@k) and a client-side Three.js 3D fitting-room prototype.
+Bilingual fashion discovery MVP built with Next.js, React and TypeScript. Explainable concept-graph search,
+PostgreSQL / Supabase analytics, automated search evaluation, and a client-side Three.js fitting-room prototype.
 
 **[Repository](https://github.com/Yashelly/Fashion_Aggregator)** · **[Live Demo](https://fashion-aggregator-flame.vercel.app)**
 
