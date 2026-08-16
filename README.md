@@ -1,5 +1,3 @@
-<img align="right" width="120" src="./assets/mascot.svg" alt="Robot mascot" />
-
 # Robertas Burbo
 
 **AI & Automation Engineer** · Full-Stack · Integrations
@@ -30,6 +28,10 @@ Bilingual EN/LT fashion discovery MVP with explainable concept-graph search, Pos
 <td width="50%" valign="top">
 
 ### Job Seeker Intelligence
+
+<a href="https://github.com/Yashelly/job-application-agent">
+  <img src="./assets/job-seeker.png" width="100%" alt="Job Seeker dashboard" />
+</a>
 
 Local-first job-search and automation engine: multi-source ingestion, an AI provider abstraction with deterministic fallback, SQLite persistence, and a scheduler with background jobs across web, TUI and CLI.
 
