@@ -14,7 +14,7 @@ Building AI-powered products, automation systems and full-stack applications.
 
 ### WEFT
 
-<a href="https://fashion-aggregator-flame.vercel.app">
+<a href="[https://weft.lt]">
   <img src="https://raw.githubusercontent.com/Yashelly/Fashion_Aggregator/main/docs/screenshots/search.png" width="100%" alt="WEFT search interface" />
 </a>
 
@@ -22,7 +22,7 @@ Bilingual EN/LT fashion discovery MVP with explainable concept-graph search, Pos
 
 `Next.js` · `React` · `TypeScript` · `PostgreSQL`
 
-[Repository](https://github.com/Yashelly/Fashion_Aggregator) · [Live Demo](https://fashion-aggregator-flame.vercel.app)
+[Repository](https://github.com/Yashelly/Fashion_Aggregator) · [Live Demo](https://weft.lt)
 
 </td>
 <td width="50%" valign="top">
