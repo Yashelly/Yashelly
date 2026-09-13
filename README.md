@@ -61,4 +61,4 @@ Hands-on infrastructure labs and automation projects.
 
 ## Education
 
-VILNIUS TECH — BSc, Artificial Intelligence Systems · Microsoft Certified: Azure Fundamentals · Google — System Administration and IT Infrastructure Services
+VILNIUS TECH — BSc, Artificial Intelligence Systems · Microsoft Certified: Azure Fundamentals · GitHub Certified: Agentic AI Developer
